@@ -1,0 +1,18 @@
+wordsList = [
+    'apple',
+    'across',
+    'addition',
+    'card',
+    'care',
+    'carriage',
+    'cart',
+    'early',
+    'earth',
+    'east',
+    'edge',
+    'gold',
+    'good',
+    'government',
+    'grain',
+    'grass',
+]
